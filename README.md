@@ -12,6 +12,5 @@ Bootstrap JS feedback button and sliding form
 
 See it live here: https://rawgithub.com/spektom/bootstrap-feedback-form/master/test.html
 
-or, on the real site: http://tldr.es
-
+or, on a real Website: http://tldr.es
 
