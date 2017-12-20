@@ -3,7 +3,7 @@ bootstrap-feedback-form
 
 Bootstrap JS feedback button and sliding form
 
-![](https://github.com/spektom/bootstrap-feedback-form/raw/master/img.png =800x)
+<img src="https://github.com/spektom/bootstrap-feedback-form/raw/master/img.png" width="400">
 
 ### Requirements ###
 
