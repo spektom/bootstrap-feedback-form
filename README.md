@@ -3,6 +3,8 @@ bootstrap-feedback-form
 
 Bootstrap JS feedback button and sliding form
 
+![screenshot](https://github.com/spektom/bootstrap-feedback-form/raw/master/img.png)
+
 ### Requirements ###
 
  * jQuery >= 1.11.0
